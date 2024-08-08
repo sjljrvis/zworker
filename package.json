@@ -1,0 +1,12 @@
+{
+  "name": "zworker",
+  "version": "1.0.0",
+  "description": "Simple async background job processor/pub/sub based on pgsql ",
+  "main": "index.js",
+  "author": "Sejal Chougule",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.3.5",
+    "pg": "^8.12.0"
+  }
+}
